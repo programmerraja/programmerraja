@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <p> I am K.Bopathi </p>
 <p> Programmer with curious to learn different technology and develop cool product from that</p>
-![pre](boy-programmer.jpg)
+![pre](boy-programmer.png)
