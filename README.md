@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <p> I am K.Bopathi </p>
 <p> Programmer with curious to learn different technology and develop cool product from that</p>
 
-[![programmer raja github stats](https://github-readme-stats.vercel.app/api?username=programmerraja&show_icons=true)](https://github.com/programmerraja/github-readme-stats&show_icons=true&theme=radical)
+[![programmer raja github stats](https://github-readme-stats.vercel.app/api?username=programmerraja&show_icons=true&theme=radical)](https://github.com/programmerraja/github-readme-stats&show_icons=true&theme=radical)
