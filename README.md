@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p> I am K.Bopathi </p>
+<p> I am K.Boopathi </p>
 <p> Programmer with curious to learn different technology and develop cool product from that</p>
 
 - 🔭 I’m currently working on Typospeed<br>
