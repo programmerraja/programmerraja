@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on <br>
 -->
 <p> I am K.Boopathi </p>
 <p> Programmer with curious to learn different technology and develop cool product from that</p>
 
-- 🔭 I’m currently working on Typospeed<br>
+
 - 🌱 I’m currently learning React js<br>
 - 💬 Ask me about anything [here](https://github.com/programmerraja/programmerraja/issues)
 
