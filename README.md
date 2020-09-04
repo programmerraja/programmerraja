@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm K.Boopathi</h1>
 <h3 align="center">Programmer with curious to learn different technology and develop cool product from that</h3>
-
-
-
+<br>
 - 🌱 I’m currently learning **node.js**
 - 💬 Ask me about anything [here](https://github.com/programmerraja/programmerraja/issues)
 <br>
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/boopathi-raja-5b475a169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="k.boopathi" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/k-boopathi-5b475a169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="k.boopathi" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UC2oJSUOdsZh3ih_jLYNfu1w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="progrrammerraja" height="30" width="30" /></a>
 </p>
 <br>
