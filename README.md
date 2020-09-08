@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <br>
 -->
 <h1 align="center">Hi 👋, I'm K.Boopathi</h1>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%" height="220">
 <h3 align="center">Programmer with curious to learn different technology and develop cool product from that</h3>
 <br>
 
@@ -21,6 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/programmerraja/programmerraja/issues)
 
 <br>
+    
 <p align="left">
   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
