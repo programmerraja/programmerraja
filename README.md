@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <br>
 -->
 <h1 align="center">Hi 👋, I'm K.Boopathi</h1>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%" height="220">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="" height="">
 <h3 align="center">Programmer with curious to learn different technology and develop cool product from that</h3>
 <br>
 
