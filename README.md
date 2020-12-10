@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/programmerraja/programmerraja/issues)
 
 <br>
-    
+### Opensource:
+
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest2020-firstcontribution-blueviolet)](https://hacktoberfest.digitalocean.com/profile)
+
 <p align="left">
   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
