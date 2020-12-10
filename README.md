@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/programmerraja/programmerraja/issues)
 
 <br>
-### Opensource:
-
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest2020-firstcontribution-blueviolet)](https://hacktoberfest.digitalocean.com/profile)
 
 <p align="left">
   
@@ -53,6 +50,11 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progrrammerraja" alt="progrrammerraja" /> </p>
 <br>
 
+### Opensource:
+
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest2020-firstcontribution-blueviolet)](https://hacktoberfest.digitalocean.com/profile)
+<br>
+<br>
 [![programmer raja github stats](https://github-readme-stats.vercel.app/api?username=programmerraja&show_icons=true&theme=radical)](https://github.com/programmerraja/github-readme-stats&show_icons=true&theme=radical)
 
 
