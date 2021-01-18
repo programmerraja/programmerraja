@@ -14,31 +14,31 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <br>
 -->
 <h1 align="center">Hi 👋, I'm K.Boopathi</h1>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="" height="">
+<img src="./img/hero.gif" alt="Coder GIF" width="" height="">
 <h3 align="center">Programmer with curious to learn different technology and develop cool product from that</h3>
 <br>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently doing ?**project** 
 - 💬 Ask me about anything [here](https://github.com/programmerraja/programmerraja/issues)
 
 <br>
 
 <p align="left">
   
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="./img/c.svg" alt="c" width="40" height="40"/>
+  <img src="./img/c++.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="./img/python.png" alt="python" width="40" height="40"/>
+  <img src=./img/java.svg" alt="java" width="40" height="40"/> 
+  <img src="./img/html.png" alt="html5" width="40" height="40"/>
+  <img src="./img/css.png" alt="css3" width="40" height="40"/> 
+  <img src="./img/javascript.png" alt="javascript" width="40" height="40"/> 
+  <img src="./img/react.png" alt="react" width="40" height="40"/>
+  <img src="./img/bootstrap.png" alt="bootstrap" width="40" height="40"/>
+  <img src="./img/mysql.svg" alt="mysql" width="40" height="40"/> 
+  <img src="./img/firebase.png" alt="firebase" width="40" height="40"/>
+  <img src="./img/mongodb.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="./img/expressjs.png" alt="expressjs" width="40" height="40"/> 
+  <img src="./img/jquery.png" alt="jquery" width="40" height="40"/>
 </p>
 <br>
 <p align = "center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
