@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="./img/c.svg" alt="c" width="40" height="40"/>
   <img src="./img/c++.svg" alt="cplusplus" width="40" height="40"/>
   <img src="./img/python.png" alt="python" width="40" height="40"/>
-
+  <img src="./img/nodejs.png" alt="node" width="40" height="40"/> 
   <img src="./img/html.png" alt="html5" width="40" height="40"/>
   <img src="./img/css.png" alt="css3" width="40" height="40"/> 
   <img src="./img/javascript.png" alt="javascript" width="40" height="40"/> 
