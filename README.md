@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="./img/c.svg" alt="c" width="40" height="40"/>
   <img src="./img/c++.svg" alt="cplusplus" width="40" height="40"/>
   <img src="./img/python.png" alt="python" width="40" height="40"/>
-  <img src=./img/java.svg" alt="java" width="40" height="40"/> 
+
   <img src="./img/html.png" alt="html5" width="40" height="40"/>
   <img src="./img/css.png" alt="css3" width="40" height="40"/> 
   <img src="./img/javascript.png" alt="javascript" width="40" height="40"/> 
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <img src="./img/mongodb.svg" alt="mongodb" width="40" height="40"/> 
   <img src="./img/expressjs.png" alt="expressjs" width="40" height="40"/> 
   <img src="./img/jquery.png" alt="jquery" width="40" height="40"/>
+  <img src="./img/java.svg" alt="java" width="40" height="40"/> 
 </p>
 <br>
 <p align = "center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>
