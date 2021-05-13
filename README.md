@@ -70,3 +70,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerraja&repo=programmerraja.github.io&theme=radical" />
 </a>-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmerraja&show_icons=true&theme=tokyonight)](https://github.com/programmerraja/github-readme-stats)
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerraja&" alt="gokul-369" /></p>
+
