@@ -56,20 +56,28 @@ Here are some ideas to get you started:
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest2020-firstcontribution-blueviolet)](https://hacktoberfest.digitalocean.com/profile)
 <br>
 <br>
-[![programmer raja github stats](https://github-readme-stats.vercel.app/api?username=programmerraja&show_icons=true&theme=radical)](https://github.com/programmerraja/github-readme-stats&show_icons=true&theme=radical)
+<!-- [![programmer raja github stats](https://github-readme-stats.vercel.app/api?username=programmerraja&show_icons=true&theme=radical)](https://github.com/programmerraja/github-readme-stats&show_icons=true&theme=radical) -->
 
 
-<a href="https://github.com/programmerraja/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<!-- <a href="https://github.com/programmerraja/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerraja&layout=compact&theme=radical" />
+</a> -->
+<a href="https://github.com/programmerraja">
+    <img src="https://github-readme-stats.vercel.app/api?username=programmerraja&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
 </a>
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats..vercel.app/api/pin/?username=programmerraja&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerraja&repo=programmerraja.github.io&theme=radical" />
-</a>-->
+<a href="https://github.com/programmerraja">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerraja&theme=chartreuse-dark&layout=compact&hide_border=true" width="43%" />
+</a>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerraja&" alt="gokul-369" /></p>
 
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=programmerraja&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+    
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=programmerraja&margin-w=15&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/programmerraja)
+
+</div>
