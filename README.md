@@ -84,3 +84,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=programmerraja&margin-w=15&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/programmerraja)
 
 </div>
+
+
+
+<!-- https://github.com/programmerraja/github-readme-activity-graph -->
+<a href="https://github.com/programmerraja/github-readme-activity-graph"><img alt="boopathi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=programmerraja&bg_color=1F222E&color=F8D866&line=de3187&point=5a9bdb&hide_border=true"/></a>
