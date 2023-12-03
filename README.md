@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">Programmer with curious to learn different technology and develop cool product from that</h3>
 <br>
 
-- 🌱 I’m currently **Full stack developer intern** 
+- 🌱 I’m currently **Full stack developer** 
 - 💬 Ask me about anything [here](https://github.com/programmerraja/programmerraja/issues)
 
 <br>
@@ -88,4 +88,6 @@ Here are some ideas to get you started:
 
 
 <!-- https://github.com/programmerraja/github-readme-activity-graph -->
-<a href="https://github.com/programmerraja/github-readme-activity-graph"><img alt="boopathi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=programmerraja&bg_color=1F222E&color=F8D866&line=de3187&point=5a9bdb&hide_border=true"/></a>
+<!-- <a href="https://github.com/programmerraja/github-readme-activity-graph"><img alt="boopathi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=programmerraja&bg_color=1F222E&color=F8D866&line=de3187&point=5a9bdb&hide_border=true"/></a> -->
+
+
