@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">Programmer with curious to learn different technology and develop cool product from that</h3>
 <br>
 
-- 🌱 I’m currently **Full stack developer** 
+- 🌱 I’m currently working **Full stack developer (INFRA)** 
 - 💬 Ask me about anything [here](https://github.com/programmerraja/programmerraja/issues)
 
 <br>
