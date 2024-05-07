@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working **Full stack developer (INFRA)** 
 - 💬 Ask me about anything [here](https://github.com/programmerraja/programmerraja/issues)
+- :brain: Check out my second brain [here](https://programmerraja.github.io/blog/)
 
 <br>
 
