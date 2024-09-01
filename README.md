@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<a href="https://app.daily.dev/programmerraja"><img src="https://api.daily.dev/devcards/v2/NbQgWXH9JdceQ4lfD3WCY.png?type=default&r=51m" width="356" alt="Programmer Raja's Dev Card"/></a>
+<a href="https://app.daily.dev/programmerraja"><img src="https://api.daily.dev/devcards/v2/NbQgWXH9JdceQ4lfD3WCY.png?type=default&r=dy3" width="356" alt="Programmer Raja's Dev Card"/></a>
 </div>
 
 
