@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm K.Boopathi</h1>
 <div align="center">
-    <a href="https://app.daily.dev/programmerraja"><img src="https://api.daily.dev/devcards/v2/NbQgWXH9JdceQ4lfD3WCY.png?type=default&r=51m" width="356" alt="Programmer Raja's Dev Card"/></a>
-<!--     <img src="./img/hero.gif" alt="Coder GIF" width="" height=""> -->
+<!--     <a href="https://app.daily.dev/programmerraja"><img src="https://api.daily.dev/devcards/v2/NbQgWXH9JdceQ4lfD3WCY.png?type=default&r=51m" width="356" alt="Programmer Raja's Dev Card"/></a> -->
+    <img src="./img/hero.gif" alt="Coder GIF" width="" height="">
  </div>
 
 <h3 align="center">Programmer with curious to learn different technology and develop cool product from that</h3>
@@ -84,12 +84,18 @@ Here are some ideas to get you started:
     
 </div>
 
+
+
 <div align="center">
 
 [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=programmerraja&margin-w=15&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/programmerraja)
 
 </div>
 
+
+<div align="center">
+<a href="https://app.daily.dev/programmerraja"><img src="https://api.daily.dev/devcards/v2/NbQgWXH9JdceQ4lfD3WCY.png?type=default&r=51m" width="356" alt="Programmer Raja's Dev Card"/></a>
+</div>
 
 
 <!-- https://github.com/programmerraja/github-readme-activity-graph -->
