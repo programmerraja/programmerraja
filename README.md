@@ -64,6 +64,9 @@ Here are some ideas to get you started:
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest2020-firstcontribution-blueviolet)](https://hacktoberfest.digitalocean.com/profile)
 <br>
 <br>
+<h3 align="center" color="#ee7312">😻 My Contributions Stats 🔝</h3>
+<img align="left" width="1500" height="300"  src="https://github-contributor-stats.vercel.app/api?username=programmerraja&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" />
+
 <!-- [![programmer raja github stats](https://github-readme-stats.vercel.app/api?username=programmerraja&show_icons=true&theme=radical)](https://github.com/programmerraja/github-readme-stats&show_icons=true&theme=radical) -->
 
 
@@ -85,13 +88,20 @@ Here are some ideas to get you started:
 </div>
 
 
-
 <div align="center">
 
 [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=programmerraja&margin-w=15&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/programmerraja)
 
 </div>
+<h1 align='center' color="rgb(132,27,45)"> 📊 My Growth Curve! 📈 </h1>
 
+[![boopathi github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=programmerraja&theme=darkhub&hide_border=true	)](https://github.com/programmerraja/github-readme-activity-graph)
+
+<!-- My achievements {cirtificate , badges , contest , recognisation ...} -->
+<h1  color="#ffaa00 " align='center'> 🏆 My Achievements 🎉</h1>
+<h2 color= "#47de73" align="center"> 🦖🎖️ My Holopin Badges: Hacktoberfest 2024! 🚀 </h2>
+
+[![An image of @programmerraja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/programmerraja)](https://holopin.io/@programmerraja)
 
 <div align="center">
 <a href="https://app.daily.dev/programmerraja"><img src="https://api.daily.dev/devcards/v2/NbQgWXH9JdceQ4lfD3WCY.png?type=default&r=dy3" width="356" alt="Programmer Raja's Dev Card"/></a>
